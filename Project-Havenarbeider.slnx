@@ -1,4 +1,24 @@
 ﻿<Solution>
+  <Project Path="Unity.InputSystem.csproj" />
+  <Project Path="Unity.XR.CoreUtils.Editor.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.csproj" />
+  <Project Path="Unity.XR.CoreUtils.csproj" />
+  <Project Path="Unity.Searcher.Editor.csproj" />
   <Project Path="Unity.VisualStudio.Editor.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Editor.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Analytics.Hooks.Editor.csproj" />
   <Project Path="Unity.Rider.Editor.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.Editor.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Analytics.Editor.csproj" />
+  <Project Path="Unity.InputSystem.ForUI.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Tests.csproj" />
+  <Project Path="Unity.InputSystem.DocCodeSamples.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.CodeSamples.Tests.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Editor.Tests.csproj" />
+  <Project Path="Unity.InputSystem.TestFramework.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
+  <Project Path="Unity.Profiling.Core.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.InteractionSimulator.csproj" />
+  <Project Path="Unity.InputSystem.ForUI.Editor.csproj" />
 </Solution>
